@@ -1,0 +1,18 @@
+{
+  "name": "assessment-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Assessment Test\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@reactivex/rxjs": "^6.6.7",
+    "async": "^3.2.6",
+    "express": "^4.19.2",
+    "rxjs": "^7.8.1"
+  }
+}
